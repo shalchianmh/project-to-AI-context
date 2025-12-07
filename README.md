@@ -1,4 +1,3 @@
-README_MD = """
 # source-code-extractor
 
 A small utility script that converts an entire source-code repository into a single text file.  
@@ -97,4 +96,3 @@ Skipped files are also listed with their reason (binary-like, too large, ignored
 ## License
 
 MIT License
-"""
