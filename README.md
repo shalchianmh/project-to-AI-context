@@ -31,8 +31,8 @@ Requires **Python 3.9+**.
 
 Clone the repository:
 
-    git clone https://github.com/<your-username>/source-code-extractor.git
-    cd source-code-extractor
+    git clone https://github.com/shalchianmh/project-to-AI-context.git
+    cd project-to-AI-context
 
 Run:
 
